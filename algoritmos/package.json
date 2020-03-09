@@ -1,0 +1,16 @@
+{
+  "name": "tablones",
+  "version": "1.0.0",
+  "description": "Encontrar el numero de clavos minimos a utilizar clavar tablones.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tablones_test.js anagrama_test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.8.7",
+    "@babel/node": "^7.8.7",
+    "mocha": "^7.1.0"
+  }
+}
