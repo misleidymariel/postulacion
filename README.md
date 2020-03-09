@@ -72,7 +72,7 @@ https://misleidymariel.github.io/postulacion/frontend/index.html
 #### Extraccion de efecto - Diagrama de secuencia
 
 
-![alt text](https://github.com/misleidymariel/postulacion/blob/master/dise%C3%B1o%20modelado/diagrama-secuencia-transaccion.png "Extraccion de efectivos")
+![alt text](https://misleidymariel.github.io/postulacion/dise%C3%B1o%20modelado/diagrama-secuencia-transaccion.png "Extraccion de efectivos")
 
 #### Administraccion de usuarios - Diagrama de clases
 
